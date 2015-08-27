@@ -1,4 +1,4 @@
-ECHO OFF
+@ECHO OFF
 REM --- Start by right clicking this file and "run as admin"
 SETLOCAL
 
