@@ -24,7 +24,9 @@ Colin Bowern and Opmet
 https://www.astaro.org/gateway-products/web-protection-web-filtering-application-visibility-control/58583-heres-how-block-windows-10-spying-2.html
 Pascalgoty and Fuselet
 
-Please submit any updates
+Please submit any updates.
+
 -------
+Original Creator:
 https://blockwindows.wordpress.com/
--------
+
