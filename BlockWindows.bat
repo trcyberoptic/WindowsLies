@@ -106,6 +106,6 @@ echo Stop remoteregistry-service (if it still exists)...
 sc config remoteregistry start= disabled
 sc stop remoteregistry
 
-echo Done — Manually reboot for changes to take effect
+echo Done - Manually reboot for changes to take effect
 REM shutdown -r
 pause
