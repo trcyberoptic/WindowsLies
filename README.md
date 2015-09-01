@@ -10,23 +10,11 @@ FILES
 3. hosts : DNS file of MS hosts to block
 4. for Firewall/hostlist : MS Hosts file to blocking for router or firewall use
 5. HideWindowsUpdates.vbs : Hides blocked updates, to reinstall click 'show hidden updates'
-
+6. DisableWiFiSense.reg : disable WiFi password sharing
 
 --
-I created this code from information from:
+https://blockwindows.wordpress.com/ created the original code from information from:
 
-http://www.hakspek.com/security/windows-script-to-remove-all-windows-10-telemetry-updates/
-Bitblp
-
-http://serverfault.com/questions/145843/block-specific-windows-update-hotfix/341318
-Colin Bowern and Opmet
-
-https://www.astaro.org/gateway-products/web-protection-web-filtering-application-visibility-control/58583-heres-how-block-windows-10-spying-2.html
-Pascalgoty and Fuselet
-
-Please submit any updates.
-
--------
-Original Creator:
-https://blockwindows.wordpress.com/
-
+Bitblp: http://www.hakspek.com/security/windows-script-to-remove-all-windows-10-telemetry-updates/
+Colin Bowern and Opmet: http://serverfault.com/questions/145843/block-specific-windows-update-hotfix/341318
+Pascalgoty and Fuselet: https://www.astaro.org/gateway-products/web-protection-web-filtering-application-visibility-control/58583-heres-how-block-windows-10-spying-2.html
