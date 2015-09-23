@@ -13,8 +13,4 @@ FILES
 6. DisableWiFiSense.reg : disable WiFi password sharing
 
 --
-https://blockwindows.wordpress.com/ created the original code from information from:
-
-Bitblp: http://www.hakspek.com/security/windows-script-to-remove-all-windows-10-telemetry-updates/
-Colin Bowern and Opmet: http://serverfault.com/questions/145843/block-specific-windows-update-hotfix/341318
-Pascalgoty and Fuselet: https://www.astaro.org/gateway-products/web-protection-web-filtering-application-visibility-control/58583-heres-how-block-windows-10-spying-2.html
+https://blockwindows.wordpress.com/ created the original code
